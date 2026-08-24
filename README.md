@@ -83,9 +83,4 @@ npm run build
 
 ---
 
-## 🛡️ Priority & SLA Definitions
 
-- **`P0` (Critical Emergency)**: Total production outage, zero-day/IDOR vulnerability disclosure, runaway billing webhook loops, active account takeovers. **SLA < 15 min | Always requires human.**
-- **`P1` (High Severity)**: Severe data loss, enterprise churn threat, payment charged without license provisioning, API rate limit halting batch pipelines. **SLA < 2 hours.**
-- **`P2` (Moderate Issue)**: Non-blocking functional bugs, session timeouts, wire transfer inquiries, feature upgrade requests. **SLA < 8 hours.**
-- **`P3` (Routine Inquiry)**: Invoice PDF requests, password resets, minor UI questions, out-of-scope queries (job resumes, pizza recipes, cold sales spam). **SLA < 24 hours.**
