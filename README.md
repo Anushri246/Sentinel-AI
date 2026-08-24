@@ -37,17 +37,7 @@ Sentinel AI is an **unsupervised, reliable front-line decision engine** that tra
 
 ---
 
-## 📊 Dataset Sourcing Guide
 
-Where to obtain real-world customer support datasets at scale:
-
-| Source | Dataset Name | Volume | Best Used For |
-| :--- | :--- | :--- | :--- |
-| **Hugging Face** | [`PolyAI/banking77`](https://huggingface.co/datasets/PolyAI/banking77) | 13,082 queries | 77 fine-grained fintech/banking intent taxonomy |
-| **Kaggle** | [`Customer Support on Twitter`](https://www.kaggle.com/datasets/thoughtvector/customer-support-on-twitter) | 2,811,774 tweets | Real customer slang, typos, sarcasm, brand escalations |
-| **Hugging Face** | [`cardiffnlp/tweet_eval` (irony)](https://huggingface.co/datasets/cardiffnlp/tweet_eval) | 100,000+ items | Calibrating sarcasm and emotion detection guardrails |
-| **Kaggle** | [`Customer Support Tickets`](https://www.kaggle.com/datasets/suraj520/customer-support-ticket-dataset) | 8,469 tickets | Pre-labeled `Priority` (Critical, High, Medium, Low) & SLA data |
-| **Hugging Face** | [`AmazonScience/massive`](https://huggingface.co/datasets/AmazonScience/massive) | 1M+ utterances | Multilingual support across 51 global languages |
 
 ### Quick Python Ingestion:
 ```python
