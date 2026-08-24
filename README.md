@@ -1,6 +1,6 @@
 # 🎯 Sentinel AI — Front-Line AI Customer Support Triage Engine
 
-> **One-Day AI Project**: Built for high-growth software companies drowning in unstructured customer messages (support requests, angry churn threats, vague queries, multi-issue paragraphs, sarcastic feedback, non-English tickets, and adversarial prompt injections). 
+> **Built for high-growth software companies drowning in unstructured customer messages (support requests, angry churn threats, vague queries, multi-issue paragraphs, sarcastic feedback, non-English tickets, and adversarial prompt injections). 
 
 Sentinel AI is an **unsupervised, reliable front-line decision engine** that transforms raw, messy text into actionable, structured triage decisions:
 ```json
